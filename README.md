@@ -1,6 +1,21 @@
 # BoardgameListingWebApp
 
-## Description
+## About the project
+I have develop complete CI/CD pipeline for "BordGame" Java application. Deployed the application in K8 cluster on AWS. I have use these tools and technologies for this project.
+
+AWS EC2 :- K8s cluster and other servers
+Jenkins :- CI/CD
+Docker :- Containerization
+Kubernetes :- Container Orchestration
+Maven :- Build and package application
+SonarQube :- Code Quality Check
+Trivy :- Dependency scan
+Nexus Repository :- Artifact repository
+Prometheus and Grafana :- Monitoring
+
+
+
+## About Application 
 
 **Board Game Database Full-Stack Web Application.**
 This web application displays lists of board games and their reviews. While anyone can view the board game lists and reviews, they are required to log in to add/ edit the board games and their reviews. The 'users' have the authority to add board games to the list and add reviews, and the 'managers' have the authority to edit/ delete the reviews on top of the authorities of users.  
