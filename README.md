@@ -3,8 +3,8 @@
 ## About the project
 I have develop complete CI/CD pipeline for "BordGame" Java application. Deployed the application in K8 cluster on AWS. I have use these tools and technologies for this project.
 
-### AWS EC2 :- K8s cluster and other servers
-### Jenkins :- CI/CD
+##### AWS EC2 :- K8s cluster and other servers
+##### Jenkins :- CI/CD
 ### Docker :- Containerization
 ### Kubernetes :- Container Orchestration
 ### Maven :- Build and package application
