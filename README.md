@@ -5,13 +5,13 @@ I have develop complete CI/CD pipeline for "BordGame" Java application. Deployed
 
 ##### AWS EC2 :- K8s cluster and other servers
 ##### Jenkins :- CI/CD
-### Docker :- Containerization
-### Kubernetes :- Container Orchestration
-### Maven :- Build and package application
-### SonarQube :- Code Quality Check
-### Trivy :- Dependency scan
-### Nexus Repository :- Artifact repository
-### Prometheus and Grafana :- Monitoring
+##### Docker :- Containerization
+##### Kubernetes :- Container Orchestration
+##### Maven :- Build and package application
+##### SonarQube :- Code Quality Check
+##### Trivy :- Dependency scan
+##### Nexus Repository :- Artifact repository
+##### Prometheus and Grafana :- Monitoring
 
 
 
